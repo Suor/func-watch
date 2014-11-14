@@ -29,12 +29,12 @@ watched.events.on('drain', ...)
 ```
 
 
-### Rationale
+## Rationale
 
 ...
 
 
-TODO:
+## TODO:
 
 - fill in docs/rationale
 - tests
