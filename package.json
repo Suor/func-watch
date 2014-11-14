@@ -1,0 +1,27 @@
+{
+  "name": "func-watch",
+  "version": "0.1.0",
+  "description": "Watch function execution",
+  "keywords": [
+    "functional", "decorator"
+  ],
+  "author": "Alexander Schepanovski",
+  "homepage": "http://github.com/Suor/func-watch",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Suor/func-watch"
+  },
+  "bugs": {
+    "url": "https://github.com/Suor/func-watch/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
