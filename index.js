@@ -26,7 +26,7 @@ module.exports = function watch(func) {
     wrapper.events = events;
 
     wrapper.idle = function () {
-        return running === 0;
+        return wrapper.running === 0;
     }
 
     // Suppress errors as they should be handled by callback anyway
